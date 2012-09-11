@@ -2,4 +2,11 @@ name: StopTrade
 version: 1.0
 description: Completely Stops NPC Trade
 author: WolfMaster (AssassinHero)
-main: me.wolfmaster.StopTrade.Main
+authors: [WolfMaster , jacklin213]
+
+main: me.WolfMaster.stoptrade.Main
+
+permissions:
+  stoptrade.allowtrade:
+    description: Allows people to bypass stoptrade and trade
+    default: op
