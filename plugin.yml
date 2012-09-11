@@ -1,0 +1,5 @@
+name: StopTrade
+version: 1.0
+description: Completely Stops NPC Trade
+author: WolfMaster (AssassinHero)
+main: me.wolfmaster.StopTrade.Main
